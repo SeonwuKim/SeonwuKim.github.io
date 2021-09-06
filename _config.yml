@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "C 프로그래밍"
+title                    : "최첨단 사회에 발맞춰 나가는 C 부처"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김선우"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "김선우"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복하지 않은 K-고딩"
+  bio              : "행복한 부처"
   location         : "Seoul, South Korea"
   email            :
   links:

@@ -101,13 +101,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김선우"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "행복하지 않은 K-고딩"
+  location         : "Seoul, South Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "sw041018@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"

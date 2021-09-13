@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "C 부처와 제자들"
+title                    : "C 부엉이 둥지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김선우"
-description              : "C부처 선곡- 반야심경 리믹스"
+description              : "부엉"
 url                      : # the base hostname & protocol for your site e.g. "https://SeonwuKim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "SeonwuKim/SeonwuKim.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "김선우"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복한 부처"
+  bio              : "졸린 부엉이"
   location         : "Seoul, South Korea"
   email            :
   links:
